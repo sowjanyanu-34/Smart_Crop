@@ -63,7 +63,7 @@ Smart_Crop/
 
 ### 1.Clone the Repository
 
-git clone https://github.com/sowjanya123-cpu/Smart_Crop.git
+git clone https://github.com/sowjanyanu-34/Smart_Crop.git
 cd Smart_Crop
 
 ### 2.Create a Virtual Environment
