@@ -1,4 +1,4 @@
-# 🌾 Smart Crop Recommendation System
+# 🌾 Smart Crop Recommendation System:
 
 A web-based application built using **Flask** that predicts the most suitable crop to grow based on soil nutrients and environmental conditions.  
 It helps farmers and agriculture enthusiasts make data-driven decisions for better yield and sustainable farming.
